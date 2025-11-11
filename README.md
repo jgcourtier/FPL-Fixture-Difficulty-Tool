@@ -10,6 +10,6 @@ The following works by calling both FPL and ClubElo APIs, for the upcoming FPL f
 <img width="630" height="270" alt="image" src="https://github.com/user-attachments/assets/34d8f6cc-1c4e-4ceb-bd6d-efb22114bf96" />
 
 
-As a result, the best way to use this tool is to find the teams that have a low average opponent Elo in the upcoming games coupled with a high average win probability. This is because purely looking at the opponent Elo in isolation ignores who is actually playing them. It's all well and good Sunderland having fantastic fixtures, but they themselves will likely perform poorly due to their own low Elo.
+As a result, the best way to use this tool is to find the teams that have a low average opponent Elo in the upcoming games coupled with a high average win probability. This is because purely looking at the opponent Elo in isolation ignores who is actually playing them. It's all well and good Burnley having fantastic fixtures, but they themselves will likely perform poorly due to their own low Elo.
 
 When prompted, input the number of gameweeks you would like see calculated ahead.
